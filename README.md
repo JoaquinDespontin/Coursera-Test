@@ -1,4 +1,3 @@
-# Coursera-Test
 <!doctype html>
 <html>
   <head>
